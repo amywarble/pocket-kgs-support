@@ -1,0 +1,79 @@
+name: App bug
+description: Report a reproducible problem in Pocket KGS without sharing sensitive data.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Pocket KGS. This report will be public.
+
+        **Do not include passwords, email addresses, private messages, unredacted logs, access tokens, or other personal information.** Contact KGS—not this tracker—for KGS account or moderation matters.
+  - type: input
+    id: app-version
+    attributes:
+      label: Pocket KGS version
+      description: Find this on the About screen or in Android app information.
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: android-version
+    attributes:
+      label: Android version and device model
+      placeholder: Android 16 on Pixel 9
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Sign-in or connection
+        - Rooms or chat
+        - Games or board
+        - Profiles or settings
+        - Notifications
+        - Teacher audio
+        - Accessibility or display
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem without including private account or message content.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Attach only screenshots or logs that you have carefully reviewed and redacted.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have not included credentials, private messages, personal information, or unredacted logs.
+          required: true
+        - label: This is an app defect, not a KGS account, server, or moderation request.
+          required: true

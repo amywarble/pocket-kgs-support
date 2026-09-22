@@ -1,0 +1,13 @@
+title: Pocket KGS Support
+description: Privacy, safety, and support information for Pocket KGS.
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+url: "https://amywarble.github.io"
+baseurl: "/pocket-kgs-support"
+repository: amywarble/pocket-kgs-support
+
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - README.md
+  - vendor
