@@ -15,7 +15,7 @@ Pocket KGS is an independent client for the KGS Go Server. It is not affiliated 
 
 You must be at least 13 years old to use Pocket KGS. If you are not legally able to agree to these Terms by yourself, a parent or legal guardian must review and agree to them for you.
 
-You are responsible for your KGS account, your credentials, and activity performed through your account. Do not share a password or impersonate another person. Pocket KGS does not own or operate KGS accounts and cannot guarantee that KGS will create, recover, retain, suspend, or delete an account.
+You are responsible for your KGS account, your credentials, and activity performed through your account. Do not share a password or impersonate another person. Pocket KGS does not own or operate KGS accounts. KGS administrators separately handle account creation, recovery, suspension, and verified deletion requests. See [Account and Data Deletion]({{ '/account-and-data-deletion/' | relative_url }}).
 
 ## Acceptable use
 
