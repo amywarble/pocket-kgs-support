@@ -99,3 +99,5 @@ This policy may change as Pocket KGS changes. The effective date at the top will
 ## Contact
 
 General app-support requests may be submitted through the [public issue tracker](https://github.com/amywarble/pocket-kgs-support/issues/new/choose), provided they contain no personal or sensitive information.
+
+For private questions or concerns about Pocket KGS, including privacy and sensitive safety matters, email the Pocket KGS developer at [hoshihatchery@gmail.com](mailto:hoshihatchery@gmail.com). For concerns about KGS accounts, server-side data, moderation, or the KGS service, contact the KGS administrators at [admin@gokgs.com](mailto:admin@gokgs.com).

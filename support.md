@@ -34,3 +34,6 @@ Do not use a public GitHub issue for a privacy request, deletion request, sensit
 - Read the [Privacy Policy]({{ '/privacy/' | relative_url }}).
 - Request [Account and Data Deletion]({{ '/account-and-data-deletion/' | relative_url }}).
 - Report a vulnerability using the repository's [private security-reporting form](https://github.com/amywarble/pocket-kgs-support/security/advisories/new).
+- Email the Pocket KGS developer at [hoshihatchery@gmail.com](mailto:hoshihatchery@gmail.com) for a private app, privacy, or sensitive safety concern.
+
+Concerns about KGS accounts, server-side data, moderation, or the KGS service should instead go to [admin@gokgs.com](mailto:admin@gokgs.com).

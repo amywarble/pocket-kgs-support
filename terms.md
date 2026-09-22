@@ -60,4 +60,4 @@ These Terms may be revised as the app or applicable requirements change. The eff
 
 ## Contact
 
-For general app questions, use the [Pocket KGS support page]({{ '/support/' | relative_url }}).
+For general app questions, use the [Pocket KGS support page]({{ '/support/' | relative_url }}). For a private question about Pocket KGS, email the developer at [hoshihatchery@gmail.com](mailto:hoshihatchery@gmail.com). Concerns about KGS accounts, moderation, server-side data, or the KGS service should go to [admin@gokgs.com](mailto:admin@gokgs.com).
