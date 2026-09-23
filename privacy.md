@@ -5,7 +5,7 @@ permalink: /privacy/
 nav_order: 3
 ---
 
-_Effective: September 21, 2026_
+_Effective: September 23, 2026_
 
 Pocket KGS is an independent Android client that connects you to the KGS Go Server ("KGS"). Pocket KGS is not affiliated with or endorsed by KGS. This policy explains what information the Pocket KGS app handles, why it handles it, where it goes, and the choices available to you.
 
@@ -36,7 +36,7 @@ Depending on the features you use, Pocket KGS handles the following information:
 Pocket KGS uses information to:
 
 - sign you in and maintain your KGS session;
-- register or update a KGS account and profile when you request it;
+- update your existing KGS account profile when you request it;
 - display rooms, users, games, profiles, messages, and other KGS content;
 - send your moves, messages, profile changes, avatar, audio, and other requested actions to KGS;
 - remember app settings, your KGS client identifier, and notification preferences on your device;
@@ -74,7 +74,7 @@ Public GitHub issues and their history remain on GitHub until they are edited or
 
 You can:
 
-- use a guest KGS session instead of registering an account;
+- use a guest KGS session instead of creating an account on the KGS website;
 - decide whether to save a password through Android Credential Manager;
 - mark your KGS email address private where that option is available;
 - choose whether to upload an avatar or edit profile information;

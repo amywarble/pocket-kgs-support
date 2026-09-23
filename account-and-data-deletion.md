@@ -9,6 +9,8 @@ _Last updated: September 21, 2026_
 
 Pocket KGS does not operate a separate account system. It signs you in to an account hosted and controlled by the KGS Go Server.
 
+Pocket KGS does not create KGS accounts. The app links to the official [KGS registration page](https://www.gokgs.com/register/index.html), where account creation is handled directly by KGS.
+
 ## Delete data stored by the app
 
 To remove Pocket KGS data from your Android device:
